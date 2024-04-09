@@ -11,12 +11,6 @@
 
 - 📫 How to reach me **shahriarfardows@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a  href="https://linkedin.com/in/https://www.linkedin.com/in/shahriar-fardows-8280b6256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahriar-fardows-8280b6256/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100085970036969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100085970036969" height="30" width="40" /></a>
-</p>
-
 
 <h3 align="left">Specialized In [ Front End ]</h3>
 
@@ -39,3 +33,8 @@
  <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/e43afa32-c6da-4ce9-b45c-91fa8b05e376" alt="MongoDB" height="40" width="40" />
  <img align="center" src="https://i.ibb.co/CmkQPsz/Screenshot-2024-04-09-182729.png" alt="MongoDB" height="40" width="40" />
   </p>
+  <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a  href="https://linkedin.com/in/https://www.linkedin.com/in/shahriar-fardows-8280b6256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahriar-fardows-8280b6256/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100085970036969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100085970036969" height="30" width="40" /></a>
+</p>
