@@ -26,11 +26,16 @@
 <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/910d3410-1149-4988-b96f-077dbb881a4c" alt="#" height="40" width="40" />
 <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/21659b6f-8052-4bd5-9904-48cbb48db467" alt="#" height="40" width="40" />
 </p>
-
-
 <h3 align="left">Familiar with [ Back End ]</h3>
 <p align="left">
  <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/fdc23483-7ba3-496e-9179-62f471e0c266" alt="#" height="40" width="40" />
  <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/bba12e51-2bb9-46e4-912e-93e07500ac37" alt="#" height="40" width="40" />
  <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/6b6c7752-d923-4711-90b3-d4c759c8169c" alt="MongoDB" height="40" width="40" />
+  </p>
+<h3 align="left">Other</h3>
+<p align="left"> 
+ <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/a6ac10f3-528f-4e01-975a-84cca64d3e63" alt="#" height="40" width="40" />
+ <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/0946c4e3-d258-4bd9-a8d7-0659dbf069a6" alt="#" height="40" width="40" />
+ <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/e43afa32-c6da-4ce9-b45c-91fa8b05e376" alt="MongoDB" height="40" width="40" />
+ <img align="center" src="https://i.ibb.co/CmkQPsz/Screenshot-2024-04-09-182729.png" alt="MongoDB" height="40" width="40" />
   </p>
