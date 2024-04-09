@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar-fardows&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar-fardows" /> </p>
 
-- 🔭 I’m currently working on **Node with Express js,Mongo and React.Partially making Web/Mobile applications using React-Native,Firebase.In Both Platform i am using Bootstrap,Sass,Tailwind,and material UI For Designing User Interfaces.**
+- 🔭 I'm currently delving into  **Node.js, Express.js, MongoDB, and React for web app development. I utilize React and Firebase, and for UI design, I leverage Bootstrap, Sass, Tailwind CSS, and Material UI.**
 
 - 🌱 I’m currently learning **Next.js, Typescript, socket.IO, Docker**
 
