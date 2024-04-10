@@ -30,7 +30,6 @@
 <p align="left"> 
  <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/a6ac10f3-528f-4e01-975a-84cca64d3e63" alt="#" height="40" width="40" />
  <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/0946c4e3-d258-4bd9-a8d7-0659dbf069a6" alt="#" height="40" width="40" />
- <img align="center" src="https://github.com/Shahriar-Fardows/Shahriar-Fardows/assets/121999068/e43afa32-c6da-4ce9-b45c-91fa8b05e376" alt="MongoDB" height="40" width="40" />
  <img align="center" src="https://i.ibb.co/CmkQPsz/Screenshot-2024-04-09-182729.png" alt="MongoDB" height="40" width="40" />
   </p>
   <h3 align="left">Connect with me:</h3>
