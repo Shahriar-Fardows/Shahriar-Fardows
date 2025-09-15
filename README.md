@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahriar Fardows</h1>
-<h3 align="center">I’m a front-end web developer From Dhaka, Bangladesh, also familiar with the Back End. I convert coffee into Code ✌️</h3>
+<h3 align="center">👨‍💻 Writing code that ships, not just compiles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar-fardows&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar-fardows" /> </p>
 
